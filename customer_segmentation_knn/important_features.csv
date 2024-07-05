@@ -1,0 +1,23 @@
+Importance,Feature
+1.0467199636771967,total_trans_amount
+0.7707085849159785,age
+0.7582838376842611,credit_limit
+0.7511141625709356,total_trans_count
+0.7105692661514343,months_on_book
+0.6967144086654055,avg_utilization_ratio
+0.6546958011851864,estimated_income
+0.5637381664959521,dependent_count
+0.46806747623967576,total_relationship_count
+0.23928584045906884,gender_M
+0.23928584045906884,gender_F
+0.11739850748363734,months_inactive_12_mon
+0.02503657249798302,marital_status_Married
+0.015036702745701165,marital_status_Unknown
+0.012810295639235738,marital_status_Single
+0.012699981223013393,marital_status_Divorced
+0.009743371915658371,education_level_Graduate
+0.009728835581641632,education_level_High School
+0.007611390819185179,education_level_Doctorate
+0.006914638095558296,education_level_Uneducated
+0.006849796307121808,education_level_College
+0.005784705560740811,education_level_Post-Graduate
